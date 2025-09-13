@@ -1,3 +1,3 @@
 ## Sarim Sadiq
-# Sof5ware Engineering
+# Software Engineering
 My hobby is to collect coins
